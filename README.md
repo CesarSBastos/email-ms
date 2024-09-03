@@ -21,7 +21,7 @@ Este projeto é um microsserviço simples para envio de e-mails usando o serviç
 
 Antes de iniciar, certifique-se de ter os seguintes softwares instalados em sua máquina:
 
-- **Java 8+** 
+- **Java 17+** 
 - **Maven** (para gerenciar as dependências e o build)
 - **Spring Boot** 3.3.3 (embutido no projeto)
 
